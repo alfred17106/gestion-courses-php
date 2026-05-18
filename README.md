@@ -1,7 +1,7 @@
 # 🏃 Gestion de Courses Sportives — PHP MVC
 
 > Application web complète avec architecture MVC pour la gestion d'événements sportifs  
-> Projet académique — ESA Namur, Belgique | 1ère année Bachelier Informatique
+> Projet académique — ESA Namur, Belgique | 2ème année Bachelier Informatique
 
 [![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=flat&logo=php&logoColor=white)](https://php.net)
 [![SQLite](https://img.shields.io/badge/SQLite-3-003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org)
